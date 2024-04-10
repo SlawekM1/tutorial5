@@ -1,0 +1,10 @@
+﻿POST http://localhost:5017/api/animals
+Content-Type: application/json
+
+{
+  "Id": 1,
+  "Name": "Max",
+  "Category": "Dog",
+  "Weight": 20.5,
+  "FurColor": "Brown"
+}
